@@ -1,12 +1,12 @@
 const isDev = process.env.NODE_ENV === 'development';
 
-const devPorts = { tech: 3000, interior: 3002, barber: 3001, elect: 3003 };
+const devPorts = { travel: 5173, tech: 3000, interior: 3002, barber: 3001, elect: 3003 };
 const prodUrls = {
   travel: 'https://tomy-global-services.pages.dev',
-  tech: 'https://tech.tomyglobalservices.com',
-  interior: 'https://interior.tomyglobalservices.com',
-  barber: 'https://barber.tomyglobalservices.com',
-  elect: 'https://elect.tomyglobalservices.com',
+  tech: 'https://tomy-tech.vercel.app',
+  interior: 'https://tomy-interior.vercel.app',
+  barber: 'https://tomy-barber.vercel.app',
+  elect: 'https://tomy-elect-.vercel.app',
 };
 
 const serviceData = {
