@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Nós",
+    "services": "Nossos Serviços",
+    "contact": "Contato"
+  },
+  "hero": {
+    "headline": "Excelência. Em todo o mundo. Entregue.",
+    "subheadline": "Soluções premium em viagens, tecnologia, design, cuidados pessoais e eletricidade.",
+    "cta1": "Explorar Nossos Serviços",
+    "cta2": "Fale Conosco"
+  },
+  "whoWeAre": {
+    "title": "Quem Somos",
+    "text": "A TOMY Global Services é um grupo internacional que reúne expertise de alto nível em cinco setores estratégicos. Combinamos excelência operacional, inovação e atendimento personalizado para entregar soluções sob medida a clientes em todo o mundo."
+  },
+  "services": {
+    "title": "Nossos Serviços",
+    "description": "Explore todos os nossos serviços profissionais.",
+    "travel": {
+      "name": "TOMY Travel",
+      "desc": "Soluções de viagem premium e experiências inesquecíveis."
+    },
+    "tech": {
+      "name": "TOMY Tech",
+      "desc": "Soluções tecnológicas inteligentes e transformação digital."
+    },
+    "interior": {
+      "name": "TOMY Interior",
+      "desc": "Design de interiores cuidadoso e acabamentos de alta qualidade."
+    },
+    "barber": {
+      "name": "TOMY Barber",
+      "desc": "Serviços profissionais de grooming e cuidados pessoais para homens."
+    },
+    "elect": {
+      "name": "TOMY Elect",
+      "desc": "Soluções elétricas profissionais e serviços técnicos confiáveis."
+    },
+    "visitBtn": "Visitar o site",
+    "learnMore": "Saiba mais"
+  },
+  "about": {
+    "title": "Sobre a TOMY Global Services",
+    "text": "A TOMY Global Services é um grupo internacional que reúne diversas áreas de expertise complementares sob uma única bandeira de excelência. Nossa missão é oferecer aos clientes soluções premium, confiáveis e inovadoras nas áreas de viagens, tecnologia, design de interiores, cuidados pessoais e serviços elétricos. Com presença internacional e forte foco em qualidade e atendimento, apoiamos indivíduos e empresas na realização de seus projetos mais exigentes.",
+    "mission": "Nossa Missão",
+    "missionText": "Oferecer soluções premium, confiáveis e inovadoras em cinco áreas complementares de expertise.",
+    "vision": "Nossa Visão",
+    "visionText": "Tornar-se a referência mundial líder em serviços integrados de alta qualidade.",
+    "values": "Nossos Valores",
+    "valuesList": [
+      "Excelência operacional",
+      "Inovação contínua",
+      "Atendimento personalizado",
+      "Integridade e transparência"
+    ]
+  },
+  "contact": {
+    "title": "Fale Conosco",
+    "subtitle": "Estamos aqui para responder suas perguntas e discutir seus projetos.",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "phone": "Telefone",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "send": "Enviar",
+      "success": "Obrigado! Sua mensagem foi enviada com sucesso.",
+      "error": "Ocorreu um erro. Por favor, tente novamente."
+    },
+    "whatsapp": "Fale conosco pelo WhatsApp",
+    "email": "info@tomyglobalservices.com"
+  },
+  "footer": {
+    "tagline": "Excelência. Em todo o mundo. Entregue.",
+    "quickLinks": "Links rápidos",
+    "services": "Nossos Serviços",
+    "copyright": "© {year} TOMY Global Services. Todos os direitos reservados."
+  },
+  "globalExcellence": {
+    "title": "Excelência Global",
+    "text": "Com presença internacional e uma rede de parceiros confiáveis, entregamos excelência em todo o mundo."
+  },
+  "finalCta": {
+    "title": "Pronto para trabalhar com a TOMY?",
+    "text": "Entre em contato hoje para discutir suas necessidades.",
+    "btn": "Solicitar Orçamento"
+  }
+}
