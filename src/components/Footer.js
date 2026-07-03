@@ -6,10 +6,10 @@ import Link from 'next/link';
 
 const serviceLinks = [
   { name: 'TOMY Travel', url: 'https://tomy-global-services.pages.dev' },
-  { name: 'TOMY Tech', url: 'https://tech.tomyglobalservices.com' },
-  { name: 'TOMY Interior', url: 'https://interior.tomyglobalservices.com' },
-  { name: 'TOMY Barber', url: 'https://barber.tomyglobalservices.com' },
-  { name: 'TOMY Elect', url: 'https://elect.tomyglobalservices.com' },
+  { name: 'TOMY Tech', url: 'https://tomy-tech.vercel.app' },
+  { name: 'TOMY Interior', url: 'https://tomy-interior.vercel.app' },
+  { name: 'TOMY Barber', url: 'https://tomy-barber.vercel.app' },
+  { name: 'TOMY Elect', url: 'https://tomy-elect-.vercel.app' },
 ];
 
 export default function Footer() {
